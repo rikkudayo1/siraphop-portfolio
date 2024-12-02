@@ -58,11 +58,11 @@ function App() {
           <div className='relative md:col-span-1 md:overflow-hidden tabs text-white rounded-md z-10 flex flex-col md:grid md:grid-rows-[55%_1%_44%]'>
             
             <div className='flex bg-black'>
-              <img className='my-auto h-full w-full' src="./src/assets/1369866.PNG" alt="" />
+              <img className='my-auto h-full w-full' src="./src/assets/1369866.png" alt="" />
             </div>
 
             <div className='overflow-hidden -my-20 md:-my-20 mx-auto flex border-4 bg-my-yellow w-40 h-40 top-56 rounded-full'>
-              <img className='mx-auto scale-125 grayscale' src="./src/assets/mypict.PNG" alt="" />
+              <img className='mx-auto scale-125 grayscale' src="./src/assets/mypict.png" alt="" />
             </div>
             
             <div className='flex flex-col justify-between mt-24'>
